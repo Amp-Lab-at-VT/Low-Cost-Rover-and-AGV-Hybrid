@@ -19,7 +19,7 @@ show_sidebar: false
 William Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Low-Cost-Rover-and-AGV-Hybrid"" >Low-Cost-Rover-and-AGV-Hybrid</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Low-Cost-Rover-and-AGV-Hybrid" >Low-Cost-Rover-and-AGV-Hybrid</a>
 
 ## Photo
 
