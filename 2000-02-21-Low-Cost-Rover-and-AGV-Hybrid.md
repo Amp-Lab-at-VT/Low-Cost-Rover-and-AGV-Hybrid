@@ -4,7 +4,7 @@ title: Low Cost Rover and AGV Hybrid
 description: Learning for the failures of the AGV Project and the shortcomings of the Odroid Control board project, I will use the very successful low cost rover board, with some slight modifications, to control the original AGV chassis. A small scale demonstrator is almost complete. This project just expands upon that idea to use components from the odroid control board project to make a solid robot control board that future AMP Lab members could use.
 date: 2000-02-21 09:00:00
 hero_image: /web/img/Low-Cost-Rover-and-AGV-Hybrid/Hero.png
-image: /web/img/Low-Cost-Rover-and-AGV-Hybrid/Hero.png
+# image /web/img/Low-Cost-Rover-and-AGV-Hybrid/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
